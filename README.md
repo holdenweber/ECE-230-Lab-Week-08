@@ -25,8 +25,7 @@ from the input, it will take the single input and output it.
 
 ### In plain English describe the function and use of a demultiplexer.
 A demultiplexer is the exact opposite of a multiplexer. It takes in
-just one input stream and can output multiple different outputs,
-one at a time. 
+just one input stream and can output one of multiple different outputs.
 
 ### What other uses might these circuits have? (Think Shannon’s)
 A demultiplexer and multiplexer circuit can often be found in
